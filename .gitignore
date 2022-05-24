@@ -1,0 +1,7 @@
+libmy.a
+*.o
+my_rpg
+.vscode
+ressources/
+vgcore*
+.idea
